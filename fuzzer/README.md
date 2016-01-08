@@ -1,10 +1,9 @@
 Syscall Fuzzer
 ---
 
+
 all_syscall.sh
-
 	|
-
 	| (pass syscall number)
 	|
 	`--> syscall_num.sh
